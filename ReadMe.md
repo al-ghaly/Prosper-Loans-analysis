@@ -1,5 +1,6 @@
 # ProsperLoanData
-## by Mohamed Al-Ghaly
+## by Mohamed Al-Ghaly<br>In this project we applied Univariate/Bivariate/Multivariate Analysis to analyze the data.<br>
+### The aim of the project is to use Statistical Analysis techniques to ensure that loans are made on proper terms to clients who can and will pay them back.
 
 
 ## Dataset
