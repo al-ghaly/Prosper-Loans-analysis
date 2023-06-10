@@ -3,7 +3,7 @@
 ### The aim of the project is to use Statistical Analysis techniques to ensure that loans are made on proper terms to clients who can and will pay them back.<br><br><br>
 
 
-## Dataset
+## Dataset  
 
 > This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.<br>I have included a guide dat set which contain a definition for each column in the data set.<br>I also have chosen only 13 variables to explore both qualitative and quanitative ones and I have cleaned the data, removed missing values and so on.
 
